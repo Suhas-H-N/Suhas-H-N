@@ -66,7 +66,7 @@ Hey there! 👋 I'm **Suhas H N**, a passionate developer on a journey through D
 
 ![](https://github-readme-stats.vercel.app/api?username=Suhas-H-N&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Suhas-H-N&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com?user=Suhas-H-N&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhas-H-N&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -88,7 +88,7 @@ Hey there! 👋 I'm **Suhas H N**, a passionate developer on a journey through D
 
 <div align="center">
 
-[![Suhas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhas-H-N&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Suhas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhas-H-N&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -113,4 +113,3 @@ Hey there! 👋 I'm **Suhas H N**, a passionate developer on a journey through D
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
