@@ -1,23 +1,45 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suhas%20H%20N&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20DSA%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=51&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Suhas%20H%20N%20👋&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20•%20DSA%20Enthusiast%20•%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
-# 💫 About Me
+<div align="center">
+  <a href="https://linkedin.com/in/SuhasHN2005"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:suhassuhas3335@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Suhas-H-N"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
-Hey there! 👋 I'm **Suhas H N**, a passionate developer on a journey through Data Structures & Algorithms.
+<br>
+
+## 💫 About Me
+
+```yaml
+name: Suhas H N
+focus: Data Structures & Algorithms, System Design
+currently_learning: [Trees, Graphs, Dynamic Programming]
+looking_to_collaborate_on: Open-source DSA & backend projects
+fun_fact: I debug code better with lo-fi music in the background 🎵
+```
 
 - 🔭 Currently **grinding DSA** and sharpening problem-solving skills
 - 🌱 Building a strong foundation in **algorithms and system design**
 - 💡 Love turning complex problems into clean, efficient solutions
 - 🎯 Goal: Become a well-rounded software engineer
-- ⚡ Fun fact: I debug code better with lo-fi music in the background 🎵
+- 📫 Reach me at **suhassuhas3335@gmail.com**
 
 ---
 
-## 🌐 Socials
+## 🧠 DSA Progress
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SuhasHN2005)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suhassuhas3335@gmail.com)
+| Topic | Status |
+|---|---|
+| Arrays & Strings | ✅ Done |
+| Linked Lists | ✅ Done |
+| Stacks & Queues | ✅ Done |
+| Trees & Graphs | 🔄 In Progress |
+| Dynamic Programming | 🔄 In Progress |
+| Advanced Algorithms | ⏳ Coming Soon |
+
+> *"Every expert was once a beginner. Every pro was once an amateur."*
 
 ---
 
@@ -25,50 +47,55 @@ Hey there! 👋 I'm **Suhas H N**, a passionate developer on a journey through D
 
 **Languages**
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools & DevOps**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🧠 DSA Progress
+## 📌 Featured Projects
 
-> *"Every expert was once a beginner. Every pro was once an amateur."*
+<!-- Replace REPLACE_WITH_REPO_NAME with your actual repo names -->
 
-- ✅ Arrays & Strings
-- ✅ Linked Lists
-- ✅ Stacks & Queues
-- 🔄 Trees & Graphs *(in progress)*
-- 🔄 Dynamic Programming *(in progress)*
-- ⏳ Advanced Algorithms *(coming soon)*
+<div align="center">
+
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Suhas-H-N&repo=REPLACE_WITH_REPO_NAME&theme=dark)](https://github.com/Suhas-H-N/REPLACE_WITH_REPO_NAME)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Suhas-H-N&repo=REPLACE_WITH_REPO_NAME&theme=dark)](https://github.com/Suhas-H-N/REPLACE_WITH_REPO_NAME)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Suhas-H-N&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhas-H-N&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=Suhas-H-N&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Suhas-H-N&theme=dark&hide_border=false" />
+</div>
 
-![](https://streak-stats.demolab.com?user=Suhas-H-N&theme=dark&hide_border=false)
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhas-H-N&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Suhas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhas-H-N&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -79,16 +106,6 @@ Hey there! 👋 I'm **Suhas H N**, a passionate developer on a journey through D
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=Suhas-H-N&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Suhas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhas-H-N&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -108,8 +125,6 @@ Hey there! 👋 I'm **Suhas H N**, a passionate developer on a journey through D
 
 [![](https://visitcount.itsvg.in/api?id=Suhas-H-N&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
