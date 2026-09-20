@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Suhas%20H%20N%20👋&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20•%20DSA%20Enthusiast%20•%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Suhas%20H%20N%20👋&fontSize=38&fontColor=fff&animation=blink&fontAlign=left" />
 </div>
 
 <div align="center">
@@ -14,14 +14,15 @@
 
 ```yaml
 name: Suhas H N
-focus: Data Structures & Algorithms, System Design
-currently_learning: [Trees, Graphs, Dynamic Programming]
-looking_to_collaborate_on: Open-source DSA & backend projects
+focus: HTML & CSS, Responsive Web Design, Data Structures & Algorithms
+currently_learning: [JavaScript, Trees, Graphs, Dynamic Programming]
+looking_to_collaborate_on: Open-source frontend and DSA projects
 fun_fact: I debug code better with lo-fi music in the background 🎵
 ```
 
-- 🔭 Currently **grinding DSA** and sharpening problem-solving skills
-- 🌱 Building a strong foundation in **algorithms and system design**
+- ✅ Completed learning **HTML** and **CSS**
+- 🌱 Building responsive and user-friendly web interfaces
+- 🔭 Currently sharpening **DSA** and problem-solving skills
 - 💡 Love turning complex problems into clean, efficient solutions
 - 🎯 Goal: Become a well-rounded software engineer
 - 📫 Reach me at **suhassuhas3335@gmail.com**
@@ -52,6 +53,7 @@ fun_fact: I debug code better with lo-fi music in the background 🎵
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 **Databases**
@@ -95,7 +97,7 @@ fun_fact: I debug code better with lo-fi music in the background 🎵
 
 <div align="center">
 
-[![Suhas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhas-H-N&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Suhas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhas-H-N&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
