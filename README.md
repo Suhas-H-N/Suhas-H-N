@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Suhas%20H%20N%20👋&fontSize=38&fontColor=fff&animation=blink&fontAlign=left" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Suhas%20H%20N%20👋&fontSize=38&fontColor=fff&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
@@ -14,15 +14,16 @@
 
 ```yaml
 name: Suhas H N
-focus: HTML & CSS, Responsive Web Design, Data Structures & Algorithms
-currently_learning: [JavaScript, Trees, Graphs, Dynamic Programming]
+focus: Frontend Development, Responsive Web Design, Data Structures & Algorithms
+currently_learning: JavaScript
+completed: [HTML, CSS]
 looking_to_collaborate_on: Open-source frontend and DSA projects
 fun_fact: I debug code better with lo-fi music in the background 🎵
 ```
 
+- 🌱 Currently learning **JavaScript**
 - ✅ Completed learning **HTML** and **CSS**
-- 🌱 Building responsive and user-friendly web interfaces
-- 🔭 Currently sharpening **DSA** and problem-solving skills
+- 🔭 Sharpening my **DSA** and problem-solving skills
 - 💡 Love turning complex problems into clean, efficient solutions
 - 🎯 Goal: Become a well-rounded software engineer
 - 📫 Reach me at **suhassuhas3335@gmail.com**
@@ -71,19 +72,6 @@ fun_fact: I debug code better with lo-fi music in the background 🎵
 
 ---
 
-## 📌 Featured Projects
-
-<!-- Replace REPLACE_WITH_REPO_NAME with your actual repo names -->
-
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Suhas-H-N&repo=REPLACE_WITH_REPO_NAME&theme=dark)](https://github.com/Suhas-H-N/REPLACE_WITH_REPO_NAME)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Suhas-H-N&repo=REPLACE_WITH_REPO_NAME&theme=dark)](https://github.com/Suhas-H-N/REPLACE_WITH_REPO_NAME)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -95,38 +83,8 @@ fun_fact: I debug code better with lo-fi music in the background 🎵
   <img src="https://streak-stats.demolab.com?user=Suhas-H-N&theme=dark&hide_border=false" />
 </div>
 
-<div align="center">
-
-[![Suhas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhas-H-N&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Suhas-H-N&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
-
-## 💭 Quote of the Day
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
 ---
 
 <div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=Suhas-H-N&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
